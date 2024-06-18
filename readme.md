@@ -17,8 +17,8 @@ The project is an automated hyperparameter optimization (HPO) system utilizing A
 ## Setup
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/yourproject.git
-   cd yourproject
+   git clone https://github.com/Radhika811/AutoML_HPO.git
+   cd AutoML_HPO
    ```
 
 2. Install the necessary packages:
